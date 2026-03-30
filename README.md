@@ -17,7 +17,7 @@ Analyse sales data from a small trade platform to understand monthly revenue tre
 ## Dashboard
 [View Tableau Dashboard]
 https://public.tableau.com/views/RetailAnalyticsProject_17697668880270/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-! [Dashboard Preview](_Dashboard.png)
+![Dashboard Preview](_Dashboard.png)
 ## Files
 - queris.sql- SQL queries used for analysis
 
